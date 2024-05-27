@@ -1,4 +1,4 @@
-# Wagging Trails: _project_f6o6r_o4l8z_z1f3s_
+# Wagging Trails Project
 
 A 304 Project by Delsther James Edralin, Sangita Dutta, and Aman Johal. Milestone 4 README below.
 
